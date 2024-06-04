@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=comic&pause=1000&color=800075FF&background=3AFFF600&center=true&multiline=true&random=false&width=435&lines=At+your+service+%3A)" alt="Typing SVG" /></a>
 </div>
 <div>
-<br>- Hello everyone👋⏱📚
+<br>- Hello everyone👋
 <br>- I am an enthusiastic programmer with big ambitions :)
 <br>- I am fond of crypto, I love scripts ⏱, optimization ⚡️ and databases 📚
 </div>
