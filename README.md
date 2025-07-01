@@ -11,6 +11,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center"">
+    <span>
+        <img alt="Profile summary" height="165" src="https://github-readme-stats.vercel.app/api?username=DaniilInside&show_icons=true&title_color=adbac7&text_color=adbac7&border_color=373e47&icon_color=539bf5&bg_color=22272e" />
+    </span>
+    <span>
+        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilInside&layout=compact&title_color=adbac7&text_color=adbac7&border_color=373e47&bg_color=22272e" />
+    </span>
+</div>
 <div style="display: flex; align-items: flex-start; align: center">
 <h2>About my skills</h2>
 <table align="center">
